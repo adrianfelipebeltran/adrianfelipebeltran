@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adrianfelipebeltran
 - 👀 I’m interested in basic automation, data visualization, and miscellaneous techy art things
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning how to implement tkinter and pandas to make little widgets to streamline workflow in a data rich world
 - 📫 Reach me at adrianfelipebeltran@gmail.com
 
 <!---
